@@ -1,2 +1,2 @@
-# cashFinder
+# СashFinder
 Cost control application
